@@ -1,0 +1,9 @@
+{
+  "name": "xorigin",
+  "version": "0.0.1",
+  "description": "allows image cross-origin resource sharing",
+  "dependencies": {
+    "express": "~3.3.4",
+    "request": "~2.25.0"
+  }
+}
