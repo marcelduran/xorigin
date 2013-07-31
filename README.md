@@ -1,4 +1,5 @@
-xorigin
-=======
+# XORIGIN
 
-image cross-origin resource sharing
+Image Cross-Origin Resource Sharing
+
+
